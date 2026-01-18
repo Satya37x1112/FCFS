@@ -3,7 +3,7 @@
 This program demonstrates FCFS process which means (FIRST COME FIRST SERVE) it is one of the important process used in CPU Scheduling.
 This Code helps to understand the working of the process in code form which will help to understand and practically see the working of the process.
 
-If you find this code insightful Don't forget to star the repo.........  :-)
+If you find this code insightful Don't forget to star this repo.........  :-)
 ```
 
 ![FCFS Process Visualization](FCFS8.png)
