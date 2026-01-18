@@ -5,7 +5,6 @@ This Code helps to understand the working of the process in code form which will
 
 f you find this code insightful Don't forget to star the repo.........  :-)
 ```
-
 ## Sample Output
 
 **Input:**
