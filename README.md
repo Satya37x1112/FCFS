@@ -5,6 +5,9 @@ This Code helps to understand the working of the process in code form which will
 
 f you find this code insightful Don't forget to star the repo.........  :-)
 ```
+
+![FCFS Process Visualization](FCFS8.png)
+
 ## Sample Output
 
 **Input:**
@@ -23,7 +26,7 @@ Enter arrival time and burst time of process 4: 50 55
 | 1   | 10      | 20    | 30         | 20         | 0       |
 | 2   | 15      | 30    | 60         | 45         | 15      |
 | 3   | 20      | 40    | 100        | 80         | 40      |
-| 4   | 50      | 55    | 155        | 105        | 50      |
+| 4   | 50      | 55    | 155        | 105       | 50      |
 
 | Metric | Value |
 |--------|-------|
